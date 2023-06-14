@@ -1,4 +1,5 @@
 Learning Rust with rustlings!
+Using this repo to track my progress
 
 <div class="oranda-hide">
 
